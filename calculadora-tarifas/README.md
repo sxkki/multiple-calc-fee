@@ -11,14 +11,7 @@ calculadora-tarifas
 │   ├── css
 │   │   └── styles.css      # Estilos CSS para la página web
 │   ├── js
-│   │   ├── main.js         # Script principal de la aplicación
-│   │   ├── paypal.js       # Funciones para calcular tarifas de PayPal
-│   │   ├── airtm.js        # Funciones para calcular tarifas de Airtm
-│   │   └── ubiipago.js     # Funciones para calcular tarifas de Ubii Pago
-│   └── apps
-│       ├── paypal.html     # Página dedicada a PayPal
-│       ├── airtm.html      # Página dedicada a Airtm
-│       └── ubiipago.html   # Página dedicada a Ubii Pago
+│   │   └── main.js         # Script principal de la aplicación
 └── README.md               # Documentación del proyecto
 ```
 
